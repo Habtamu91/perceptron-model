@@ -1,6 +1,4 @@
-Here’s a **professional, clean, and interactive GitHub README** tailored specifically for your **Perceptron Model (Iris dataset)** notebook. You can copy–paste this directly into your `README.md` 🚀
-
----
+--
 
 # 🌸 Perceptron Model on Iris Dataset
 
